@@ -1,0 +1,4 @@
+gradio
+torch
+torchvision
+timm==0.6.12
